@@ -21,7 +21,7 @@ const projects = [
 		name: "Eowie",
 		descriptionKey: "An all in one bot dedicated to providing the best experience to the best servers on Discord.",
 		url: "https://github.com/EowieCorp",
-		icon: "https://cdn.discordapp.com/avatars/1380999305170518187/a_89b760a65a810a957b8dfc3a1b20beed.gif?size=1024",
+		icon: "https://cdn.discordapp.com/attachments/1387956126414274600/1403206318528925797/image.png?ex=6896b538&is=689563b8&hm=ddf73e5f3dae610cd2764a33b6fff99b2b821bd08c8c2b04896169e57111d95e&",
 		language: "Python",
 	},
 ];
