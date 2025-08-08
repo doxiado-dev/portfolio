@@ -285,7 +285,7 @@ export default function Header() {
 								</a>
 								<div className="h-6 w-[1px] bg-gradient-to-b from-transparent via-white/20 to-transparent mx-1.5" />
 								<a
-									href="mailto:me@doxiado.dev"
+									href="mailto:contact.doxiado@gmail.com"
 									onClick={() => setHamburgerTriggered(false)}
 									className="nav-link-icon text-white/80 hover:text-white transition-all duration-300 hover:text-shadow-[0_0_12px_rgba(255,255,255,0.7)] non-selectable"
 								>
@@ -389,7 +389,7 @@ export default function Header() {
 											{t("commissions")}
 										</a>
 										<a
-											href="mailto:me@doxiado.dev"
+											href="mailto:contact.doxiado@gmail.com"
 											className="hamburger-navlink text-white/80 hover:text-white py-2 hover:bg-white/10 transition-all duration-300 hover:text-shadow-[0_0_12px_rgba(255,255,255,0.7)] non-selectable"
 										>
 											<div className="flex items-center">
