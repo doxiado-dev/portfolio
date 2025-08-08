@@ -11,18 +11,18 @@ import { useLanguage } from "@/hooks/LanguageContext";
 
 const projects = [
 	{
-		name: "Coffin",
-		descriptionKey: "projects.coffin",
-		url: "https://github.com/bot-coffin",
-		icon: "https://cdn.discordapp.com/attachments/1358472046807486566/1375953458267557888/coffin.png?ex=68339004&is=68323e84&hm=feeb6e8032203bb607a84e7fc1029b4aa1a36b9826877dd5b82ed03b5d636c13&",
+		name: "Lush",
+		descriptionKey: "An official organisation for the lush bot.",
+		url: "https://github.com/LushIndustries",
+		icon: "https://cdn.discordapp.com/attachments/1387956126414274600/1391574492861694112/lush-avatar.png?ex=6896943d&is=689542bd&hm=937c86bf1f74c5bc25bfb604db999c4fdb0a4f297c2631ba8f234d70a3b395d3&",
 		language: "Python",
 	},
 	{
-		name: "LYZOR",
-		descriptionKey: "projects.website",
-		url: "https://github.com/lyzorsh/website",
-		icon: "https://cdn.discordapp.com/attachments/1358472046807486566/1375953392828154016/icon.png?ex=68338ff4&is=68323e74&hm=0439149a6eba0bca74e5c374541a09cc78965baabd5e457329f3654ebf6e2b1e&",
-		language: "TypeScript",
+		name: "Eowie",
+		descriptionKey: "An all in one bot dedicated to providing the best experience to the best servers on Discord.",
+		url: "https://github.com/EowieCorp",
+		icon: "https://cdn.discordapp.com/avatars/1380999305170518187/a_89b760a65a810a957b8dfc3a1b20beed.gif?size=1024",
+		language: "Python",
 	},
 ];
 
