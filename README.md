@@ -1,0 +1,18 @@
+# Doxiado's Portfolio
+* Showcase of skills
+* Information about myself
+* Socials
+
+#### How to run:
+
+```bash
+git clone https://github.com/doxiado-dev/portfolio.git
+cd portfolio
+bun install
+bun dev
+```
+
+#### Environment variables:
+`GITHUB_TOKEN` is required for the Statistics page to work.
+
+* <h6>inspired by alot of websites and components libraries</h6>
