@@ -50,7 +50,7 @@ export async function GET() {
 		);
 
 		const wakatimeData = await fetchWithCheck(
-			"https://wakatime.com/api/v1/users/enhance/stats?is_including_today=true",
+			"https://wakatime.com/api/v1/users/lockfile/stats?is_including_today=true",
 			{ next: { revalidate: 18000 } }, // Cache for 5 hours
 		);
 
