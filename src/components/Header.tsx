@@ -304,7 +304,7 @@ export default function Header() {
 									</svg>
 								</a>
 								<a
-									href="https://github.com/refurbishing/website"
+									href="https://github.com/doxiado-dev/portfolio"
 									onClick={() => setHamburgerTriggered(false)}
 									className="nav-link-icon text-white/80 hover:text-white transition-all duration-300 hover:text-shadow-[0_0_12px_rgba(255,255,255,0.7)] non-selectable"
 									target="_blank"
@@ -410,7 +410,7 @@ export default function Header() {
 											</div>
 										</a>
 										<a
-											href="https://github.com/refurbishing/website"
+											href="https://github.com/doxiado-dev/portfolio"
 											className="hamburger-navlink text-white/80 hover:text-white py-2 hover:bg-white/10 transition-all duration-300 hover:text-shadow-[0_0_12px_rgba(255,255,255,0.7)] non-selectable"
 											target="_blank"
 											rel="noopener noreferrer"
