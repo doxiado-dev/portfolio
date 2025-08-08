@@ -6,7 +6,7 @@ import { useState, useEffect, useRef } from "react";
 import { useInview } from "../lib/animateInscroll";
 import { Icon } from "@iconify/react";
 import { useLanguage } from "@/hooks/LanguageContext";
-import { getTranslation } from "@/utils/translation";
+import { getTranslation } from "@/utils/translations";
 
 export default function Statistics() {
   const ref = useRef<HTMLDivElement>(null);
