@@ -2,7 +2,7 @@
 import { Card, CardHeader, CardBody } from "@heroui/react";
 import { motion } from "framer-motion";
 import { TextFade } from "../app/structure/TextFade";
-import { useState, useEffect, useRef } from "reacts";
+import { useState, useEffect, useRef } from "react";
 import { useInview } from "../lib/animateInscroll";
 import { Icon } from "@iconify/react";
 import { useLanguage } from "@/hooks/LanguageContext";
